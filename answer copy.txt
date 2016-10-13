@@ -1,0 +1,15 @@
+
+
+2. the main two benefits of using git are frictionless context switching and disposal experiment
+4. the another name of source control is Subversion.
+5.git is the distributed version control system.
+6.we use make a local copy of remote repository is git clone https://github.com-it-rediness/git-lecture-example.git like this  command
+7.the main identifying facto of a commit is to create a new commit object pointing to it and sets the branch to point that new commit.
+ 8.single point history called Git is Reddit.
+9. irreconcilable diff means create conflict between two commit and branch.
+10. git fetch origin command is the view the latest changes in a remote repository without merging them.
+11.the default name is Remote repository is : git push
+Q.n12 .to create a new branch o repository is : git branch bb-math
+Q.n15 combine the contents of one branch into another : git merge sb-math
+Q.n16 git commit -m 'merge branch name ' command is the combination of fetch and branch
+Q.n27 label of state names for [1] = untracked, [2]=unmodified, [3]= modified, [4]= stage. 
